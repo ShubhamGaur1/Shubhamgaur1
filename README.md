@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Shubham Gaur</h1>
+<h1 align="center">Welcome to my GitHub profile! I'm Shubham Gaur, a Aspiring Data Analysis with sa passsion for leveraging data to drive insights and solve complex problems.</h1>
+
 
 <!--
 **ShubhamGaur1/Shubhamgaur1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
